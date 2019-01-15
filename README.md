@@ -1,2 +1,2 @@
 # Processing
-Collection of various Processing Sketches
+Collection of various Processing sketches
